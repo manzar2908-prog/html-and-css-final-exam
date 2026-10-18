@@ -1,0 +1,102 @@
+
+.img1{
+    padding: 10px 10px 10px 10px;
+ background-color: black;
+ width: 1220px;
+ height: 4500px;
+ display:flex;
+
+}
+ 
+ul { 
+    color: aliceblue;
+   list-style: none;
+   display: flex;
+   gap: 20px;
+   padding:   10px 10px 10px 10px;
+   position: relative;
+   top: 0px;
+   right: 10px;
+   bottom: px;
+   left: 450px;
+   padding-top: -50px;
+}
+.img2{
+    padding: 10px 10px 10px 10px;
+color: rgb(247, 251, 255);
+   display: flex;
+   padding:   12px 10px 0px 700px;
+
+   
+}
+   .img3{
+    
+   padding:   10px 10px 10px 10px;
+   position: absolute;
+   top: 100px;
+   left: 1px;
+   bottom: 100px;
+   right: 150px;
+   align-items: center;
+justify-content: center;
+ }
+ .img4{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 1000px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
+ .img5{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 1700px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
+ .img6{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 2400px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
+ .img7{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 3100px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
+ .img8{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 3800px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
+ .img9{
+    padding: 10px 10px 10px 10px;
+   position: absolute;
+   top: 4200px;
+   left: 150px;
+   bottom: 1px;
+   right: 100px;
+   align-items: center;
+   justify-content: center;
+ }
